@@ -2,12 +2,7 @@
 
 <h2>👨‍💻 Proiectele mele: </h2>
 
-- <b>Proiect 1</b>
-  - [proiect](link)
-
 <h2>📺 Altele: </h2>
-
-- [Altele](link)
 
 <h2> 🤳 Connect with me:</h2>
 
