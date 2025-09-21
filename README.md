@@ -4,6 +4,8 @@
 
 <h2>📺 Altele: </h2>
 
+- Certificat de absolvire curs Machine Learning: 
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AlexClitan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
