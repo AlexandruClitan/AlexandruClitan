@@ -1,4 +1,4 @@
-<h1>Bună, sunt <a href="www.linkedin.com/in/alexandru-ioan-clițan-3b7947328">Alex</a>! 
+<h1>Bună, sunt <a href="www.linkedin.com/in/alexandru-clitan">Alex</a>! 
 
 <h2>👨‍💻 Proiectele mele: </h2>
 
@@ -15,4 +15,4 @@
 [<img align="left" alt="AlexClitan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/alex.clitan/?__pwa=1#
-[linkedin]: www.linkedin.com/in/alexandru-ioan-clițan-3b7947328
+[linkedin]: www.linkedin.com/in/alexandru-clitan
