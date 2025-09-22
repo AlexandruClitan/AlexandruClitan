@@ -1,10 +1,8 @@
-<h1>Bună, sunt <a href="www.linkedin.com/in/alexandru-clitan">Alex</a>! 
+<h1>Hi, I'm <a href="www.linkedin.com/in/alexandru-clitan">Alex</a>! 
 
-<h2>👨‍💻 Proiectele mele: </h2>
+<h2>👨‍💻 My projects: </h2>
 
-<h2>📺 Altele: </h2>
-
-- Certificat de absolvire curs Machine Learning: 
+<h2>📺 Other: </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
