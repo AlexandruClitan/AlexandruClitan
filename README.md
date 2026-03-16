@@ -1,5 +1,5 @@
-<h1>Hi, I'm <a href="www.linkedin.com/in/alexandru-clitan">Alex</a>! 
-<h2>Master's student in Artificial Intelligence and Signal Processing at <a href="https://etti.utcluj.ro/acasa.html">ETTI, UTCN.</h2>
+<h1>Hi, I'm Alex! 
+<h2>Master's student in Artificial Intelligence and Signal Processing at <a href="https://etti.utcluj.ro/acasa.html">ETTI, UTCN.</a></h2>
 
 <h2>👨‍💻 My projects: </h2>
 
