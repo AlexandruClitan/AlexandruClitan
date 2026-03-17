@@ -4,6 +4,7 @@
 <a href="https://etti.utcluj.ro/acasa.html">ETTI, UTCN</a></h2>
 
 <h2>👨‍💻 My Projects:</h2>
+- 🩻 <a href="https://github.com/AlexandruClitan/cancer-classification-cnn">Histopathological Classification of Lung and Colon Cancer</a>
 
 <h2> 🤳 Connect with me:</h2>
 
