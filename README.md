@@ -3,7 +3,7 @@
 <h2>Master's student in Artificial Intelligence and Signal Processing at 
 <a href="https://etti.utcluj.ro/acasa.html">ETTI, UTCN</a></h2>
 
-<h2>👨‍💻 My Projects:</h2> https://github.com/AlexandruClitan?tab=repositories
+<h2>👨‍💻 My Projects:</h2>https://github.com/AlexandruClitan?tab=repositories
 
 - 🩻 <a href="https://github.com/AlexandruClitan/cancer-classification-cnn">Histopathological Classification of Lung and Colon Cancer Using a Convolutional Neural Network and Grad-CAM Interpretability</a>
 
